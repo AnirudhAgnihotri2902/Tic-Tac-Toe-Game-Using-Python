@@ -15,6 +15,7 @@ def printBoard(board):
     print(board['1'] + '|' + board['2'] + '|' + board['3'])
 
 
+
 def game():
     turn = 'X'
     count = 0
